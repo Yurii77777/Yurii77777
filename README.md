@@ -4,3 +4,5 @@
 - 📫 How to reach me:
   Telegram - https://t.me/Yurets7777
   E-mail: jmfy777@icloud.com
+
+https://www.codewars.com/users/Yurets77777
