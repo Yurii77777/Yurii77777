@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yurii77777
+- 👋 Hi, I’m Yurii
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
