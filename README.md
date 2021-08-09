@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yurii
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development like different Apps and Game dev.
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
   Telegram - https://t.me/Yurets7777
