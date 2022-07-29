@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yurii
 - 👀 I’m interested in web development like different Apps and Game dev.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN stack.
 - My website - http://yurets.info MERN stack!
 - 📫 How to reach me:
   Telegram - https://t.me/Yurets7777
