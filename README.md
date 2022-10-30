@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yurii => Front-End Developer
+- 👋 Hi, I’m Yurii => Full-Stack JS Developer
 - 👀 I’m interested in web development like different SPA and Game dev.
 - 🌱 I’m currently learning MERN stack.
 - &#127957; My website - http://yurets.info MERN stack!
