@@ -6,4 +6,4 @@
   Telegram - https://t.me/Yurets7777
   E-mail: jmfy777@icloud.com
 
-https://yurii77777.github.io/andriiko-yurii-cv/
+https://www.youtube.com/@prodUAwebDev/featured
